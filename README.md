@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @innazozulia
 - 👀 I'm interested in frontend development
-- 🌱 I’m currently learning React
 - ✨ Hobbies: film photography, drums, drawing.
 - 📫 How to reach me innazozulia@outlook.com
 
