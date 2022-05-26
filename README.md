@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @innazozulia
-- I'm Front end from Ukraine
+- I'm Front end developer from Ukraine
 - ✨ Hobbies: film photography, drums, drawing.
 - 📫 How to reach me innazozulia@outlook.com
 
