@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innazozulia
 - I'm Front end developer from Ukraine
-- ✨ Hobbies: film photography, drums, drawing.
+- ✨ Technologies: ReactJS, JS, Redux toolkit, HTML, CSS, CSS-preprocessors, mockAPI, axios.
 - 📫 How to reach me innazozulia@outlook.com
 
 <!---
