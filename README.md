@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innazozulia
 - I'm Front end developer from Ukraine
-- ✨ Technologies: ReactJS, NextJS, JavaScript, Node.js, Express, Redux toolkit, HTML, CSS, CSS-preprocessors, 
+- ✨ Technologies: ReactJS, NextJS, JavaScript, Node.js, Express, Redux toolkit, HTML, CSS, CSS-preprocessors, MongoDB 
 - 📫 How to reach me innazozulia@outlook.com
 
 <!---
